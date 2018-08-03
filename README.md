@@ -10,5 +10,5 @@ Approaches explored are: does age/gender/passenger class affect the chances of s
 - NumPy
 - Pandas
 - Matplotlib
-- Sklearn
+- scikit-learn
 - Keras
